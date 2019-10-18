@@ -1,6 +1,8 @@
 ## Results & Deliverables
- 
-## Interpretation & Conclusion
+This is a template for tracking ML experiments in this project.
+On later stages, it might be semi-automatic or replaced with MLFlow or alternatives.
+For more examples, please navigate: https://github.com/lyubonko/classification/blob/master/materials/results/journal.md?fbclid=IwAR0lJ7XKDHGNFo8S3TM1QwOR6F_NEnEI4my8GHSab8qL2uERxHutodJ7bnE
+
 
 # [e001-e00n] Experiment Block 1 - Data Exploration
 
@@ -11,7 +13,7 @@
 ---> 
 <!--- ###################################################### --->
 
-# [e001-e002] MVP vs PoC Data Test
+## [e001-e002] MVP vs PoC Data Test
 
 |          |          |
 |----------|----------|
@@ -51,7 +53,7 @@ Observations:
 
 <!--- ###################################################### --->
 
-# [e003-e00n] Name
+## [e003-e00n] Name
 
 |          |          |
 |----------|----------|
